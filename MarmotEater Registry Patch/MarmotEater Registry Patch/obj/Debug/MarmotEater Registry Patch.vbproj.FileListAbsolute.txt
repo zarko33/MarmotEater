@@ -1,0 +1,9 @@
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater Registry Patch\MarmotEater Registry Patch\bin\Debug\MarmotEater Registry Patch.exe
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater Registry Patch\MarmotEater Registry Patch\bin\Debug\MarmotEater Registry Patch.pdb
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater Registry Patch\MarmotEater Registry Patch\bin\Debug\MarmotEater Registry Patch.xml
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater Registry Patch\MarmotEater Registry Patch\obj\Debug\MarmotEater_Registry_Patch.Form1.resources
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater Registry Patch\MarmotEater Registry Patch\obj\Debug\MarmotEater_Registry_Patch.Resources.resources
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater Registry Patch\MarmotEater Registry Patch\obj\Debug\MarmotEater Registry Patch.vbproj.GenerateResource.Cache
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater Registry Patch\MarmotEater Registry Patch\obj\Debug\MarmotEater Registry Patch.exe
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater Registry Patch\MarmotEater Registry Patch\obj\Debug\MarmotEater Registry Patch.xml
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater Registry Patch\MarmotEater Registry Patch\obj\Debug\MarmotEater Registry Patch.pdb

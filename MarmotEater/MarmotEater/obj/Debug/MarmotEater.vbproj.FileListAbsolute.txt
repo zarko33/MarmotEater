@@ -1,0 +1,9 @@
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater\MarmotEater\bin\Debug\MarmotEater.exe
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater\MarmotEater\bin\Debug\MarmotEater.pdb
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater\MarmotEater\bin\Debug\MarmotEater.xml
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater\MarmotEater\obj\Debug\MarmotEater.Form1.resources
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater\MarmotEater\obj\Debug\MarmotEater.Resources.resources
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater\MarmotEater\obj\Debug\MarmotEater.vbproj.GenerateResource.Cache
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater\MarmotEater\obj\Debug\MarmotEater.exe
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater\MarmotEater\obj\Debug\MarmotEater.xml
+c:\users\knackrack615\documents\visual studio 2013\Projects\MarmotEater\MarmotEater\obj\Debug\MarmotEater.pdb
