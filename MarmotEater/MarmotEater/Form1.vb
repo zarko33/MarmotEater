@@ -15,7 +15,7 @@ Public Class Form1
             ElseIf result = DialogResult.Yes Then
                 Try
                     Timer1.Start()
-                    My.Computer.FileSystem.DeleteFile(CommandLineArgs(i))f
+                    My.Computer.FileSystem.DeleteFile(CommandLineArgs(i))
                 Catch ex As Exception
 
                 End Try
