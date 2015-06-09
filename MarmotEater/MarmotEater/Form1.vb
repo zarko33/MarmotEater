@@ -15,7 +15,7 @@ Public Class Form1
             ElseIf result = DialogResult.Yes Then
                 Try
                     Timer1.Start()
-                    My.Computer.FileSystem.DeleteFile(CommandLineArgs(i))
+                    My.Computer.FileSystem.DeleteFile(CommandLineArgs(i))f
                 Catch ex As Exception
 
                 End Try
@@ -73,7 +73,7 @@ Public Class Form1
 
         If ProgressBar1.Value = 100 Then
             Timer1.Stop()
-            MessageBox.Show("File eated!", "MarmotEater", MessageBoxButtons.OK, MessageBoxIcon.Information)
+            MessageBox.Show("The File has been eaten!", "MarmotEater", MessageBoxButtons.OK, MessageBoxIcon.Information)
             End
         End If
     End Sub
